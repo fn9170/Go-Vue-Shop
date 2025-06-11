@@ -67,3 +67,4 @@
 The project adopts a frontend-backend separation architecture. The backend is implemented using Go-Micro to support microservices.
 
 ![Architecture Design](./design.png)
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
